@@ -1,1 +1,2 @@
-message : This should work
+application: 
+  message : This should work
