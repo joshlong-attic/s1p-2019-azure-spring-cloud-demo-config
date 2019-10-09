@@ -1,2 +1,7 @@
 application: 
-  message : This should work
+  message : Hello SpringOne Platform 2019
+
+spring:
+  sleuth:
+    sampler:
+      probability: 1.0
